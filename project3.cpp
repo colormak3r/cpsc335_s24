@@ -1,7 +1,7 @@
 // Authors:
 // - Dang Khoa Nguyen (colormak3r@csu.fullerton.edu)
-// - Alexis
-// - Michael
+// - Alexis Nemsingh (alexisnemsingh@csu.fullerton.edu)
+// - Michael G Duenas (mduenas1@csu.fullerton.edu)
 
 #include <iostream>
 #include <iomanip>
